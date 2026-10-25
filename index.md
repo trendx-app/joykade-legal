@@ -1,5 +1,6 @@
 ---
 title: JoyKade
+canonical_url: https://trendx-company.vercel.app/joykade
 ---
 
 # JoyKade
