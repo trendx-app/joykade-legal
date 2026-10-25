@@ -1,5 +1,6 @@
 ---
 title: JoyKade Privacy Policy
+canonical_url: https://trendx-company.vercel.app/joykade/privacy.html
 ---
 
 # JoyKade 개인정보처리방침 / Privacy Policy
