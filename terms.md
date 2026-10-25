@@ -1,5 +1,6 @@
 ---
 title: JoyKade Terms of Service
+canonical_url: https://trendx-company.vercel.app/joykade/terms.html
 ---
 
 # JoyKade 이용약관 및 개인정보처리방침
